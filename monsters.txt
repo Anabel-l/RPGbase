@@ -1,0 +1,52 @@
+animated object
+awakened plant
+banshee
+basilisk
+berserker
+cambion
+chimera
+clay golem
+cyclops
+demon
+devil
+dire wolf
+djinni
+dragon
+dryad
+gargoyle
+ghast
+ghost
+ghoul
+giant
+gelatinous cube
+gorgon
+griffon
+hag
+harpy
+hell hound
+hippogriff
+homunculus
+hydra
+imp
+iron golem
+kobold
+kraken
+lich
+manticore
+minotaur
+mummy
+ogre
+orc
+poltergeist
+roc
+satyr
+scorpion
+shadow
+skeleton
+succubus
+troglodyte
+vampire
+werewolf
+wraith
+wyvern
+zombie
